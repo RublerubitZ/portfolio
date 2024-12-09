@@ -37,8 +37,7 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
     <img src="https://github.com/user-attachments/assets/402c736b-fe64-452e-9d7a-92d75e6467a3" width="45%">
     <img src="https://github.com/user-attachments/assets/03becf08-4443-48e5-b987-e3d19bb950e9" width="45%">
 </div>
-
-
+---
 &nbsp;  
 
 ### 😥WAGUWAGU : 감정인식 맛집 추천 시스템
@@ -64,6 +63,7 @@ https://github.com/user-attachments/assets/4771c6e3-bb77-4f40-ad96-4b5782df5c5b<
 https://github.com/user-attachments/assets/1c8affcf-27ab-4fce-82b0-87871b93f10e
 
 &nbsp;  
+---
 
 ### 📙 Education
 - 대구대학교 AI학과 재학  / `20.02 – ING`
