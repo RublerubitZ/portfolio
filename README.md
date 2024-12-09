@@ -1,6 +1,6 @@
 ## 구 승 율
 
-대구대학교 AI학과 재학 | 42경산 본과정 재학
+대구대학교 AI학과 재학 | 42경산 본과정 재학</br>
 Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 
 어릴때부터 마인크래프트 게임을 통해 개발을 접하게 된 후
@@ -48,10 +48,15 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 - 사회적 거리두기로 인한 음악 동아리 운영의 어려움을 떠올리며, 가수 성시경의 합주 영상을 모티브로 구현한 시스템입니다.
 - 빅데이터 추천 시스템을 적용해 연주 영상을 맞춤 추천하고, 뮤지션들의 활발한 교류를 촉진합니다.
 
+**[사용 기술 & 프레임워크]**
+- Python
+- KoBERT / CBF / NCF
+- FastAPI / React
+
 **[역할] : 풀 스택 엔지니어, 모델 학습**
 - 협업체계(Git) 관리
 - KoBERT 모델 구축 및 데이터 전처리, NCF구현부 리뷰, 별점 데이터 크롤링
-- KoBERT모델 & & NCF FastAPI 백엔드 서버 구현 및 KOBERT & NCF & CBF 모델 FastAPI 서빙
+- KoBERT모델 & NCF모델 기반 FastAPI 백엔드 서버 구현 및 KOBERT & NCF & CBF 모델 FastAPI 서빙
 - React로 PC,Mobile 2가지 환경에서 제어가능한 웹 어플리케이션 구현
 - RESTAPI 와 React 통신부 구현 및 Javascript 카카오 API 연동
 
