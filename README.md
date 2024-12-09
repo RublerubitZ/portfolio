@@ -89,9 +89,7 @@ https://github.com/RublerubitZ/capstone_ers
 ###
 
 ### 📙 Education
-- 대구대학교 AI학과 재학  / `20.02 – ING`
-- 대만 국립정치대학 교환학생 파견  / `19.02.25 – '19.06.30
-- 부산IT교육센터 [NCS] (디지털컨버전스)자바 기반 클라우드 융합 응용SW개발 과정 수료  / '22.01.17 - '22.07.26
+- 대구대학교 AI학과 재학  / (`20.02 – ING`)
 
 &nbsp;  
 
@@ -109,7 +107,6 @@ https://github.com/RublerubitZ/capstone_ers
 &nbsp; 
 
 ---
-
 
 ### 📺 More Information
 
