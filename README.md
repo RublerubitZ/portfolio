@@ -15,7 +15,6 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 &nbsp;
 
 ## 💻 Project
-<div style="border: 2px solid #cccccc; border-radius: 10px; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
 
 ### 😥시각장애인을 위한 동전 분류 시스템
 '24.03 - '24.06 , (4人)
@@ -39,9 +38,7 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
     <img src="https://github.com/user-attachments/assets/03becf08-4443-48e5-b987-e3d19bb950e9" width="45%">
 </div>
 
-</div>
-
-<div style="border: 2px solid #cccccc; border-radius: 10px; padding: 20px; margin-bottom: 20px; background-color: #f9f9f9;">
+---
 
 ### 😥WAGUWAGU : 감정인식 맛집 추천 시스템
 '24.09 - '24.12 , (3人)
@@ -62,15 +59,34 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 https://github.com/RublerubitZ/capstone_ers
 
 **🎥시연 영상:**  
-https://github.com/user-attachments/assets/4771c6e3-bb77-4f40-ad96-4b5782df5c5b</br>
-https://github.com/user-attachments/assets/1c8affcf-27ab-4fce-82b0-87871b93f10e
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #ccc;">
+    <thead>
+        <tr style="background-color: #f9f9f9; text-align: left;">
+            <th style="padding: 10px; border: 1px solid #ccc;">플랫폼</th>
+            <th style="padding: 10px; border: 1px solid #ccc;">시연 영상</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ccc;">PC</td>
+            <td style="padding: 10px; border: 1px solid #ccc;">
+                <a href="https://github.com/user-attachments/assets/4771c6e3-bb77-4f40-ad96-4b5782df5c5b" target="_blank">PC 시연 영상 보기</a>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border: 1px solid #ccc;">모바일</td>
+            <td style="padding: 10px; border: 1px solid #ccc;">
+                <a href="https://github.com/user-attachments/assets/1c8affcf-27ab-4fce-82b0-87871b93f10e" target="_blank">모바일 시연 영상 보기</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-</div>
-
-
-
-&nbsp;  
 ---
+
+&nbsp;
+
+###
 
 ### 📙 Education
 - 대구대학교 AI학과 재학  / `20.02 – ING`
