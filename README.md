@@ -33,8 +33,10 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 - 실시간 결과 도출 시스템 구축 및 분류 동전 음성 출력 시스템 제작
 
 **🎥시연 영상:**  
-![image](https://github.com/user-attachments/assets/402c736b-fe64-452e-9d7a-92d75e6467a3)
-![image](https://github.com/user-attachments/assets/03becf08-4443-48e5-b987-e3d19bb950e9)
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/402c736b-fe64-452e-9d7a-92d75e6467a3" width="45%">
+    <img src="https://github.com/user-attachments/assets/03becf08-4443-48e5-b987-e3d19bb950e9" width="45%">
+</div>
 
 
 &nbsp;  
