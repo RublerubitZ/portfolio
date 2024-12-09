@@ -69,7 +69,7 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 
 ## 💻 Project
 
-### 🎼WAGUWAGU : 감정인식 맛집 추천 시스템
+### 😥WAGUWAGU : 감정인식 맛집 추천 시스템
 '24.09 - '24.12 , 개발인원 3명
 
 **[프로젝트 개요]**
@@ -81,31 +81,18 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 - 협업체계(Git) 관리
 - KoBERT 모델 구축 및 데이터 전처리, NCF구현부 리뷰,별점 데이터 크롤링
 - KoBERT모델 & & NCF FastAPI 백엔드 서버 구현 및 KOBERT & NCF & CBF 모델 FastAPI 서빙
-- React로 pc,mobile 2가지 환경에서 제어가능한 웹 어플리케이션 구현
+- React로 PC,Mobile 2가지 환경에서 제어가능한 웹 어플리케이션 구현
 - RESTAPI 와 React 통신부 구현 및 Javascript 카카오 API 연동
 
-
-&nbsp;  
-
-### 🍏Ringo : 여행지 정보 웹사이트
-'23.05.01 - '23.05.26 (3주) , 개발인원 2명  
-
-**[프로젝트 개요]**  
-- 여행지 검색, 여행 계획을 작성하는 온라인 여행 플래너 및 관광지 포토리뷰, 여행정보 게시판 등 커뮤니티를 제공하는 서비스입니다.
-- Spring Framework 기반의 REST API + Vue.js 기반의 클라이언트로 구성된 Single Page Application입니다.  
-- ChatGPT, Kakao API, 공공데이터 등등 웹서비스의 유용성을 높이는 API들을 활용하였습니다.
-
-
- 
-**[역할] : Full-Stack, 팀장**
-- DB구조 설계, 협업체계(Git) 관리  
-- 회원기능, 관광지 정보, 포토리뷰, 여행계획 구현
-- 화면구현 및 Axios 비동기 통신 구현
-
-
+**GitHub:**  
+https://github.com/RublerubitZ/capstone_ers
 
 **🎥시연 영상:**  
-https://www.youtube.com/watch?v=Zujd17yREBY
+https://github.com/user-attachments/assets/4771c6e3-bb77-4f40-ad96-4b5782df5c5b
+https://github.com/user-attachments/assets/1c8affcf-27ab-4fce-82b0-87871b93f10e
+
+
+
 
 
 &nbsp;  
@@ -146,8 +133,12 @@ https://github.com/HyebinPark96/CherryPick
 &nbsp;
 
 ### 🏅 External Activities(대외활동)
+- 소설벤처 해커톤 캠프 /  (`23.12.20 - `23.12.21)
 - 42경산 부트캠프 본과정 / (`24.02. - '~ING)
-
+- 경북 지역재생 로컬캠프 / (`24.11.21 - `24.11.22)
+- 초광역 대학연합 특허셀럽캠프 / (`24.10.25 - `24.10.26)
+- 하나소셜벤처 유니버시티 / (`24.7.1 - `24.7.25)
+- 
 &nbsp; 
 
 ---
