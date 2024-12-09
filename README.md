@@ -9,7 +9,6 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 
 &nbsp;  
 
-
 ## 📧 Contact
 **Naver.** role0606@naver.com     
 
@@ -42,14 +41,14 @@ https://github.com/user-attachments/assets/1c8affcf-27ab-4fce-82b0-87871b93f10e
 &nbsp;  
 
 ### 📙 Education
-- 대구대학교 AI학과 재학  / `20.02 – '~ING
+- 대구대학교 AI학과 재학  / `20.02 – ING`
 - 대만 국립정치대학 교환학생 파견  / `19.02.25 – '19.06.30
 - 부산IT교육센터 [NCS] (디지털컨버전스)자바 기반 클라우드 융합 응용SW개발 과정 수료  / '22.01.17 - '22.07.26
 
 &nbsp;  
 
 ### 💳 Experience
-- 42경산 부트캠프 본과정 / (`24.02. - '~ING)
+- 42경산 부트캠프 본과정 / (`24.02. - ~ING`)
 
 &nbsp;
 
