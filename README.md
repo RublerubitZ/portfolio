@@ -69,18 +69,20 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 
 ## 💻 Project
 
-### 🎼OnTheBlock : 합주 SNS 플랫폼
-'23.08.28 - '23.11.06 (6주) , 개발인원 5명
+### 🎼WAGUWAGU : 감정인식 맛집 추천 시스템
+'24.09 - '24.12 , 개발인원 3명
 
 **[프로젝트 개요]**
-- 아마추어 뮤지션들을 위한 합주 플랫폼입니다.
+- 감정 인식을 통한 
 - 사회적 거리두기로 인한 음악 동아리 운영의 어려움을 떠올리며, 가수 성시경의 합주 영상을 모티브로 구현한 시스템입니다.
 - 빅데이터 추천 시스템을 적용해 연주 영상을 맞춤 추천하고, 뮤지션들의 활발한 교류를 촉진합니다.
  
-**[역할] : Front-End**
-- 화면 설계 및 구현
-- 합주 영상 등록 및 재생 기능 구현 : 
-MediaRecorder API 이용 영상 녹화, 파일 업로드, Remotion 라이브러리 이용 영상 동시 제어, UseMemo 이용 성능 최적화
+**[역할] : 풀 스택 엔지니어, 모델 학습**
+- 협업체계(Git) 관리
+- KoBERT 모델 구축 및 데이터 전처리, NCF구현부 리뷰,별점 데이터 크롤링
+- KoBERT모델 & & NCF FastAPI 백엔드 서버 구현 및 KOBERT & NCF & CBF 모델 FastAPI 서빙
+- React로 pc,mobile 2가지 환경에서 제어가능한 웹 어플리케이션 구현
+- RESTAPI 와 React 통신부 구현 및 Javascript 카카오 API 연동
 
 
 &nbsp;  
@@ -132,61 +134,25 @@ https://github.com/HyebinPark96/CherryPick
 &nbsp;  
 
 ### 📙 Education
-- 부산대학교 인문대학 중어중문학과 학사졸업(최우등)  / `14.03.03 – '20.08.28
+- 대구대학교 AI학과 재학  / `20.02 – '~ING
 - 대만 국립정치대학 교환학생 파견  / `19.02.25 – '19.06.30
 - 부산IT교육센터 [NCS] (디지털컨버전스)자바 기반 클라우드 융합 응용SW개발 과정 수료  / '22.01.17 - '22.07.26
 
 &nbsp;  
 
-### 💳 Certification
-- SQL개발자(SQLD) (`23.04.14)
-- 정보처리기사 ('22.06.17)
-- TOEIC 935 ('22.05.29)
+### 💳 Experience
+- 42경산 부트캠프 본과정 / (`24.02. - '~ING)
 
+&nbsp;
 
+### 🏅 External Activities(대외활동)
+- 42경산 부트캠프 본과정 / (`24.02. - '~ING)
 
-### 💳 Trivia
-##### 독서 목록
-- 누구나 자료구조와 알고리즘 개정2판
-- 자바의 정석 3판 1권
-- 프로그래머의 길, 멘토에게 묻다
-- 객체지향의 사실과 오해
+&nbsp; 
 
-&nbsp;  
-- Think Hard! 몰입 [황농문]
-
-&nbsp;  
 ---
 
 
-### 📺 See Also
+### 📺 More Information
 
-**Notion.** [https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f)
-
-**Github.**  [https://github.com/AtomicLiquors](https://github.com/AtomicLiquors)
-
-
-<!--우부콘 2022 갔다온 얘기.-->
-<!--========================================-->
-
-<!-- Project REadme로.
-**역할 분담**  
-김서하  
-● DB 설계 및 클라우드 DB 관리  
-● Kakaomap api로 지도 데이터 적용  
-● Ajax 비동기 통신 활용한 카페 , 북마크 crud   
-
-박혜빈  
-● 개발환경 구축 및 형상관리  
-● Spring Security 적용 권한 및 인증 설정 / Bcrypt 로 패스워드 해싱  
-● HttpSession로 유저 정보 관리  
-● SmartEditor 리뷰 작성 및 게시판 구현  
-● jQuery / Ajax / Jackson 라이브러리 사용으로 JSON 데이터 변환 및 비동기 통신  
-● RESTful API 설계  
-● ErrorController 인터페이스 구현으로 에러페이지 커스터마이징  
-● MyBatis 동적 쿼리 사용으로 분기처리  
-  
-최효빈  
-● 프론트엔드 : css 디자인 및 js/jquery 이용 동적 엘리먼트 제어  
-● 파일업로드 구현 및 Drag & Drop 방식과 이미지 미리보기 구현  
-● Ajax 비동기 통신을 통한 카페(사업장) 등록 및 수정 구현  -->
+**Github.**  [https://github.com/RublerubitZ](https://github.com/RublerubitZ)
