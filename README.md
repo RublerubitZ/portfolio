@@ -15,58 +15,6 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 
 &nbsp;
 
-## 🛠️ Skills  
-  <img src="./java_icon.png" width="30px" height="30px"/> **Java** &nbsp;  
-- Java 인터페이스, Singleton 패턴, 또는 Builder 패턴을 이용한 MVC 패턴 구현 가능 &nbsp;  
-- 백준 Online Judge Gold 3 티어 &nbsp;  
-- Mockito, RestDocs를 이용한 단위 테스트 코드 작성 및 API 문서 작성
-&nbsp;  
-
-
-<img src="./spring_icon.png" width="30px" height="30px"/> **Spring**
-- Spring MVC와  RESTful API를 이용한 SPA 개발 경험 : SSAFY 전공자 분반 최우수 PJT상 수상
-- IoC와 DI 등 Spring의 의존성 관리 메커니즘의 학습과 이해
-  &nbsp;
-   
-<img src="./mysql_icon.png" width="30px" height="30px"/> **MySQL**
-- 요구사항에 필요한 Join과 SubQuery, 가상 테이블(View) 활용 가능 
-- JPA 또는 MyBatis를 이용한 Spring Project와의 DB연동 
-- SQLD 자격증 보유, 웹 프로젝트 DB설계 경험 다수
-  &nbsp;  
-
-<!--
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">-->
-<!--
-(Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
-
-<div style="display: flex;">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
-
-<div style="display: flex;">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
- 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  </div>
--->
-&nbsp;  
-&nbsp;  
-
-
-
-
 ## 💻 Project
 
 ### 😥WAGUWAGU : 감정인식 맛집 추천 시스템
@@ -88,35 +36,8 @@ Java & Spring 밴엔드 개발자, 머신러닝 개발자를 지향합니다.
 https://github.com/RublerubitZ/capstone_ers
 
 **🎥시연 영상:**  
-https://github.com/user-attachments/assets/4771c6e3-bb77-4f40-ad96-4b5782df5c5b
+https://github.com/user-attachments/assets/4771c6e3-bb77-4f40-ad96-4b5782df5c5b</br>
 https://github.com/user-attachments/assets/1c8affcf-27ab-4fce-82b0-87871b93f10e
-
-
-
-
-
-&nbsp;  
-
-<!--
-
-### 🍒Cherrypick : 로컬 카페 추천 웹사이트
-
-이용자들이 핫플레이스 카페들을 리스트로 모아 공유하고, 카페 방문 후기를 남기는 웹 서비스입니다.
-'22.07.01 - '22.07.26 (3주) , 개발인원 3명
-
-**[기획의도]** 
-- 식당 정보를 공유하는 <망고플레이트>를 벤치마킹하여, 카페를 타겟팅한 웹서비스를 제작하고자 하였습니다.
-- Spring 프레임워크 기반의 MVC 모델을 적용하였습니다.
- 
-**[역할]** : 팀원
-- 파일업로드 구축, 카페(사업장) 리스트업 기능 구현,
-- Ajax 비동기 통신을 이용한 회원 및 카페(사업장) CRUD를 구현
-- 전체적인 프론트엔드 작업 담당
-
-**GitHub:**  
-https://github.com/HyebinPark96/CherryPick  
--->
-  
 
 &nbsp;  
 
